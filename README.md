@@ -1,3 +1,3 @@
 # Guessing Game - Savon
-05 February 2020 - (9:30) - 
-This program has 25 lines of code.
+The time makefile was ran - 2020-02-05:09:57:19
+The number of lines in guessinggame.sh       25
