@@ -1,5 +1,5 @@
 function main(){
-while true [[ $count -ne $guess ]]
+while true
 do
 	read -p "Please guess how many files that are in the current directory: " guess
 	if [[ $guess -lt $count ]]
@@ -18,7 +18,7 @@ do
 done
 }
 
-count=3
+count=6
 guess=-1
 main
 
