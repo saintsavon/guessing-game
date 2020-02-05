@@ -1,5 +1,5 @@
 README.md: 
 	touch README.md
 	echo "# Guessing Game" >> README.md
-	printf "$$(date --iso-seconds)"
+	echo "05 February 2020 - (9:30)"
 	echo "This program has 25 lines of code."
